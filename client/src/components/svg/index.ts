@@ -48,3 +48,4 @@ export { default as NewChatIcon } from './NewChatIcon';
 export { default as ExperimentIcon } from './ExperimentIcon';
 export { default as GoogleIconChat } from './GoogleIconChat';
 export { default as AssistantIcon } from './AssistantIcon';
+export { default as Sparkles } from './Sparkles';
